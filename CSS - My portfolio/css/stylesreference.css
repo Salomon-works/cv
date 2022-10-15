@@ -1,0 +1,58 @@
+body {
+  background-color: #CDF0EA;
+}
+
+div {
+  background-color: #B1D7B4
+}
+
+body {
+  margin: 0
+}
+
+
+.container {
+  position: relative;
+  width: 500px;
+  height: 500px;
+
+}
+
+
+.top-container {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  display: inline-block;
+  position: absolute;
+  top: 200px;
+  right: 10px;
+
+
+
+
+}
+
+.middle-container {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  display: inline-block;
+  position: absolute;
+  top: 30px;
+
+
+}
+
+.bottom-container {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  display: inline-block;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+
+
+
+}
